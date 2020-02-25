@@ -1,4 +1,3 @@
-javascript:
 (function() {
 
     var videos = document.getElementsByTagName('video');
